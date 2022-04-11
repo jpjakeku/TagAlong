@@ -6,4 +6,4 @@ This is our project called TagAlong, a social media application and website that
 This app allows users to share their travels with their friends and family.<br/> 
 TagAlong allows users to upload their vacation itineraries for others to use or customize for future vacations!
 TagAlong can integrate with other social media platforms like Facebook or Instagram.
-This app will be available for mobile users in theri respective app stores.
+This app will be available for mobile users in their respective app stores.
